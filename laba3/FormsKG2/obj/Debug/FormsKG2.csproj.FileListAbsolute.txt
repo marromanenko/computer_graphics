@@ -1,0 +1,40 @@
+D:\FormsKG2\bin\Debug\FormsKG2.exe.config
+D:\FormsKG2\bin\Debug\FormsKG2.exe
+D:\FormsKG2\bin\Debug\FormsKG2.pdb
+D:\FormsKG2\obj\Debug\FormsKG2.csproj.AssemblyReference.cache
+D:\FormsKG2\obj\Debug\FormsKG2.Form1.resources
+D:\FormsKG2\obj\Debug\FormsKG2.Properties.Resources.resources
+D:\FormsKG2\obj\Debug\FormsKG2.csproj.GenerateResource.cache
+D:\FormsKG2\obj\Debug\FormsKG2.csproj.CoreCompileInputs.cache
+D:\FormsKG2\obj\Debug\FormsKG2.exe
+D:\FormsKG2\obj\Debug\FormsKG2.pdb
+D:\3-й курс\компутерная графика\FormsKG2\bin\Debug\FormsKG2.exe.config
+D:\3-й курс\компутерная графика\FormsKG2\bin\Debug\FormsKG2.exe
+D:\3-й курс\компутерная графика\FormsKG2\bin\Debug\FormsKG2.pdb
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.AssemblyReference.cache
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.Form1.resources
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.Properties.Resources.resources
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.GenerateResource.cache
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.CoreCompileInputs.cache
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.exe
+D:\3-й курс\компутерная графика\FormsKG2\obj\Debug\FormsKG2.pdb
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\bin\Debug\FormsKG2.exe.config
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\bin\Debug\FormsKG2.exe
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\bin\Debug\FormsKG2.pdb
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.Form1.resources
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.Properties.Resources.resources
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.exe
+C:\Users\roman\Desktop\unik\кг\компутерная графика\FormsKG2\obj\Debug\FormsKG2.pdb
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\bin\Debug\FormsKG2.exe.config
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\bin\Debug\FormsKG2.exe
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\bin\Debug\FormsKG2.pdb
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.Form1.resources
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.Properties.Resources.resources
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.exe
+C:\Users\roman\Desktop\unik\кг\laba3\FormsKG2\obj\Debug\FormsKG2.pdb
