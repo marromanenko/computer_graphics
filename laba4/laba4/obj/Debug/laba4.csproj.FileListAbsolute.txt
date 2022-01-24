@@ -1,0 +1,10 @@
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\bin\Debug\laba4.exe.config
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\bin\Debug\laba4.exe
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\bin\Debug\laba4.pdb
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.Form1.resources
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.exe
+C:\Users\roman\Desktop\unik\кг\laba4\laba4\obj\Debug\laba4.pdb
