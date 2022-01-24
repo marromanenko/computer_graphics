@@ -32,7 +32,7 @@ Programmatically implement algorithms for rasterization of the Bézier curve for
 2. Display the Bezier curve on the monitor screen.
 3. Implement the specified geometric transformations.
 
-##laba3 Algorithms for filling specified contours
+## laba3 Algorithms for filling specified contours
 
 **The purpose of the work:**
 in practical experience to get acquainted with the methods of filling arbitrarily set contours (areas) on the monitor screen.
